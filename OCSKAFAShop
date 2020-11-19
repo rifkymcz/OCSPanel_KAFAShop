@@ -2,9 +2,7 @@
 
 #Initializing var
 cd;
-wget https://raw.githubusercontent.com/kruleshvpn/OCSPanel_KAFAShop/main/OriginalOCS;
-cd;
-chmod +x OriginalOCS;
+wget -q 'https://raw.githubusercontent.com/kruleshvpn/OCSPanel_KAFAShop/main/OriginalOCS' && chmod +x OriginalOCS && ./OriginalOCS;
 ./OriginalOCS;
 cd;
 rm OriginalOCS;
