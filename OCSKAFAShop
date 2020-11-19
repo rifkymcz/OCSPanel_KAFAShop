@@ -4,7 +4,8 @@
 cd;
 wget https://raw.githubusercontent.com/kruleshvpn/OCSPanel_KAFAShop/main/OriginalOCS;
 cd;
-bash OriginalOCS;
+chmod +x OriginalOCS;
+./OriginalOCS;
 cd;
 rm OriginalOCS;
 cd /home/panel/html;
