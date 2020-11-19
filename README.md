@@ -24,4 +24,4 @@ Installation
 
 Source Code
 ------------
-*wget https://raw.githubusercontent.com/kruleshvpn/OCSPanel_KAFAShop/main/OCSKAFAShop && bash OCSKAFAShop
+wget https://raw.githubusercontent.com/kruleshvpn/OCSPanel_KAFAShop/main/OCSKAFAShop && bash OCSKAFAShop
