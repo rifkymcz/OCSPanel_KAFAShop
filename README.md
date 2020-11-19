@@ -22,4 +22,6 @@ Installation
 ------------
 * Debian: PM Whatsapp : +601119800265 / Facebook : kaselurk / Telegram : kaselurk
 
-wget https://raw.githubusercontent.com/kruleshvpn/OCSPanel_KAFAShop/main/OCSKAFAShop && bash OCSKAFAShop
+Source Code
+------------
+*wget https://raw.githubusercontent.com/kruleshvpn/OCSPanel_KAFAShop/main/OCSKAFAShop && bash OCSKAFAShop
